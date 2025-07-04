@@ -1,53 +1,40 @@
-🌤️ WeatherCheck App
-🔗 Live Demo
-📌 Description
-WeatherCheck is a modern, responsive weather forecasting web application that allows users to check current weather conditions in any city around the world.
+# 🌤️ WeatherCheck App
 
-This app fetches real-time weather data using the OpenWeatherMap API and displays essential information like city name, temperature, and weather description in a clean, premium-style interface.
+### 🔗 [Live Demo](https://weathercheckapp77.netlify.app/)
 
-🛠️ Features
-🔍 Search weather by city name
+---
 
-🌡️ Displays current temperature and weather conditions
+## 📌 Description
 
-🧊 Glassmorphism design with modern gradient background
+**WeatherCheck** is a modern, responsive weather forecasting web application that allows users to check current weather conditions in any city around the world.
 
-⚠️ Error message for invalid or unknown cities
+It fetches real-time weather data using the **OpenWeatherMap API** and displays city name, temperature, and a short description of the current weather in a sleek, glassmorphism-styled card.
 
-📱 Fully responsive and mobile-friendly
+---
 
-📸 Screenshot
+## 🛠️ Features
 
-(Replace with your actual screenshot if available)
+- 🔍 Search weather by city name
+- 🌡️ Shows temperature in Celsius
+- 📃 Displays weather description
+- 🧊 Premium design (Glassmorphism UI)
+- ❌ Error handling for invalid city names
+- 📱 Responsive for mobile and desktop
 
-🚀 Tech Stack
-HTML5
+---
 
-CSS3 (Glassmorphism Design)
+## 🚀 Tech Stack
 
-JavaScript (ES6)
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **OpenWeatherMap API**
+- **Netlify (Deployment)**
 
-OpenWeatherMap API
 
-Netlify (for deployment)
+## 🧪 How to Run Locally
 
-📦 Installation (for local development)
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/weathercheckapp.git
 cd weathercheckapp
-open index.html (or use Live Server)
-🌐 API Reference
-Data is provided by:
-
-🔗 OpenWeatherMap API
-
-✍️ Author
-Soumadeep Shee
-
-🔗 Live App
-
-📄 License
-This project is open-source and free to use.
-
+# Open index.html with Live Server or in browser
